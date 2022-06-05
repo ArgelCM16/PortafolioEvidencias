@@ -1,0 +1,114 @@
+*
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+header
+{
+width: 750px;
+height: 250px;
+background-color: blue;
+border-top: 10px solid black;
+border-bottom: 5px solid black;
+border-left: 10px solid black;
+border-right: 10px solid black;
+
+}
+nav
+{
+width: 750px;
+height: 50px;
+background-color: rgb(9, 166, 87);
+border-top: 5px solid black;
+border-bottom: 5px solid black;
+border-left: 10px solid black;
+border-right: 10px solid black;
+
+}
+main
+{
+width: 750px;
+height: 400px;
+background-color: rgb(163, 190, 102);
+border-top: 5px solid black;
+border-bottom: 5px solid black;
+border-left: 10px solid black;
+border-right: 10px solid black;
+
+}
+footer
+{
+width: 750px;
+height: 50px;
+background-color: rgb(146, 186, 97);
+border-top: 5px solid black;
+border-bottom: 10px solid black;
+border-left: 10px solid black;
+border-right: 10px solid black;
+
+}
+
+.banner
+{
+    float: left;
+    width: 500px;
+    height: 230px;
+    background-color: aquamarine;
+    margin: 10px;
+    border: 1px solid black;
+}
+.logo
+{
+    width: 220px;
+    height: 230px;
+    margin-left: 520px;
+    margin-top: 10px;
+    background-color: aquamarine;
+    border: 1px solid black;
+}
+article
+{
+    float: left;
+    width: 450px;
+    height: 380px;
+    background-color: antiquewhite;
+    margin: 10px;
+    border: 1px solid black;
+}
+aside
+{
+    margin-top: 10px;
+    width: 270px;
+    height: 380px;
+    margin-left: 470px;
+    background-color: bisque;
+    border: 1px solid black;
+}
+h1
+{
+    text-align: center;
+}
+#regreso
+{
+    width: 200px;
+    height: 400px;
+    float: right;
+}
+#caja
+{
+    width: 1000px;
+}
+#a
+{
+    float: left;
+}
+button
+{
+    text-align: center;
+    width: 200px;
+    height: 60px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: rgb(165, 182, 168);
+    font-size: 20px;
+}

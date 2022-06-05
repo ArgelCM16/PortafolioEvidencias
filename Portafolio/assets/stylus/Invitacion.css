@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Nuosu+SIL&display=swap');
+*
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+.ou
+{
+    width: 1000px;
+    height: 650px;
+    background-color: rgb(33, 52, 52);
+}
+iframe
+{
+    border-radius: 15px;
+}
+.aller
+{
+    margin-top: 100px;
+    float: left;
+    width: 400px;
+    height: 325px;
+    background-color: beige;
+    border-radius: 15px;
+}
+aside
+{
+    float: left;
+    margin: 100px 50px 100px 50px;
+    width: 450px;
+    height: 450px;
+    background-color: aquamarine;
+    border-radius: 50px;
+}
+.jour
+{
+    margin-top: 25px;
+    float: left;
+    width: 400px;
+    height: 100px;
+    background-color: lightsalmon;
+    border-radius: 15px;
+    text-align: center;
+       
+}
+.cell
+{
+    height: 100px;
+    text-align: center;
+    width: 300px;
+    margin: 25px 50px;
+    background-color: rgb(230, 230, 189);
+    border-radius: 15px;
+}
+.food
+{
+    width: 300px;
+}
+#mouse
+{
+    margin-left: 75px;
+    width: 300px;
+    height: auto;
+}
+h5
+{
+    font-family: 'Bebas Neue', cursive;
+}
+#adore
+{
+ text-align: center;
+ font-family: 'Nuosu SIL', serif;
+}
+form
+{
+    margin: 1%;
+
+}
+input
+{
+    background-color: lightsalmon;
+}
+#regreso
+{
+    width: 200px;
+    height: 400px;
+    float: right;
+    text-align: center;
+}
+#caja
+{
+    width: 1300px;
+}
+#a
+{
+    float: left;
+}
+button
+{
+    text-align: center;
+    width: 200px;
+    height: 60px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: rgb(165, 182, 168);
+    font-size: 20px;
+}
+#aimer
+{
+    width: auto;
+    height: auto;
+    margin: 0%;
+    border-radius: 0%;
+    font-size: 15px;
+}
+
+

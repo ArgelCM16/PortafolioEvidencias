@@ -1,0 +1,212 @@
+*
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+.menu
+{
+    width: 850px;
+    height: 60px;
+    background-color: white;
+    float: left;
+    margin-left: 50px;
+    margin-top: 15px;
+    border-radius: 10px;
+
+}
+.informacion
+{
+    width: 850px;
+    height: 1000px;
+    background-color: white;
+    float: left;
+    margin-top: 15px;
+    margin-left: 50px;
+    border-radius: 15px;
+    margin-bottom: 50px;
+}
+.datos
+{
+    float: left;
+    width: 300px;
+    height: 600px;
+    background-color: white;
+    margin-left: 100px;
+    margin-top: 15px;
+    border-radius: 10px;
+    
+}
+
+.a
+{
+    width: 1400px;
+}
+.logo
+{
+    float: left;
+    height: 60px;
+    width: 75px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: yellow;
+}
+body
+{
+    background-color: #a59f9f;
+}
+.box
+{
+    float: left;
+    width: 100px;
+    height: 60px;
+}
+h4
+{
+    text-align: center;
+}
+#siguieme
+{
+    width: 130px;
+    height: 40px;
+    background-color: yellow;
+    margin: 10px;
+    float: right;
+    margin-right: 30px;
+    border-radius: 15px;
+}
+#titre
+{
+    width: 300px;
+    height: 75px;
+}
+
+.foto
+{
+    width: 300px;
+    height: 200px;
+    background-color: lightpink;
+    border-radius: 10px;
+    float: right;
+}
+
+#poisson
+{
+    margin-left: 15px;
+}
+.bouton
+{
+    width: 150px;
+    height: 34px;
+    background-color: yellow;
+    border-radius:15px ;
+}
+.prueba
+{
+    text-align: center;
+}
+#ballon
+{
+    
+    font-weight: bold;
+}
+p
+{
+    margin-left: 15px;
+
+}
+#bouton
+{
+    width: auto;
+    height: 34px;
+    background-color: yellow;
+    border-radius:15px ;
+}
+#photo
+{
+    float: right;
+    width: auto;
+    height: 40px;
+    background-color: yellow;
+    border-radius: 15px;
+}
+#jundi
+{
+    float: left;
+    height: 20px;
+    width: auto;
+    margin-left: 20px;
+    margin-top: 10px; 
+    font-weight: bold;
+}
+#maison
+{
+    width: 850px;
+    height: 350px;
+    background-color: #fafafa;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-bottom: 15px;
+}
+#bleu
+{
+    width: 850px;
+    height: 50px;
+    border-radius: 15px;
+    margin-bottom: 15px; 
+}
+#titulo
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.jaune
+{
+    float: left;
+    margin-left: 62.5px;
+    margin-top: 40px;
+    width: 200px;
+    height: 250px;
+    border-radius: 5px;
+    background-color: #dbd7d7;
+}
+#tour
+{
+    width: 850px;
+    height: 650px;
+}
+.imgser img
+{
+    margin: 15px;
+    width: auto;
+    height: 75px;
+}
+h1
+{
+    padding-left: 15px;
+}
+#regreso
+{
+    width: 200px;
+    height: 400px;
+    float: right;
+    text-align: center;
+}
+#caja
+{
+    width: 1600px;
+}
+#a
+{
+    float: left;
+}
+button
+{
+    text-align: center;
+    width: 200px;
+    height: 60px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: rgb(165, 182, 168);
+    font-size: 20px;
+}

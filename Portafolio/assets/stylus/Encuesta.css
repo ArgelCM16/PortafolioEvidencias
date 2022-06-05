@@ -1,0 +1,76 @@
+#box
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    height: 800px;
+
+}
+#boogle
+{
+    float: left;
+    width: 900px;
+    height: 800px;
+    border: 1PX solid black;
+    background-color: rgb(88, 103, 187);
+}
+#regreso
+{
+    width: 200px;
+    height: 400px;
+    float: right;
+    text-align: center;
+}
+#caja
+{
+    width: 1300px;
+}
+#a
+{
+    float: left;
+}
+.nose
+{
+    text-align: center;
+    width: 200px;
+    height: 60px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: rgb(165, 182, 168);
+    font-size: 20px;
+}
+input
+{
+    margin-top: 10px;
+    float: right;
+    width: 600px;
+}
+label
+{
+width: 200px;
+margin-top: 10px;
+padding: 10px;
+}
+
+#perro
+{
+    width: 200px;
+    margin: 50px 500px;
+    height: 50px;
+    font-size: 20px;
+}
+.clear
+{
+    clear: both;
+}
+#color
+{
+    width: 30px;
+    margin-right: 580px;
+}
+select
+{
+    margin-top: 10px;
+    float: right;
+    width: 600px;  
+}
